@@ -1,0 +1,10 @@
+RubyPlex Ticket Receipt
+============================
+Booking ID: 3
+User ID: 2
+Movie: avengers
+Show Time: 12:00
+Tickets: 1
+Total Price: ₹100
+============================
+Enjoy your movie!
