@@ -14,7 +14,7 @@ class Cinema
   end
 
   def add_show(show)
-    @show.push(show)
+    @shows.push(show)
   end
 
   def list_movies
