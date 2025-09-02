@@ -1,5 +1,5 @@
 module SeatManager
-  MAX_SEATS = 50   # each show has 50 seats
+  MAX_SEATS = 50  
 
   def available_seats(show, bookings)
     booked = bookings.select { |b| b.show == show }.sum(&:tickets)
