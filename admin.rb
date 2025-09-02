@@ -87,3 +87,8 @@ class Admin
     puts "Available seats: #{available_seats(show, @bookings)}"
   end
 end
+
+
+
+
+#saurabh
